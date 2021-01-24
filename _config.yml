@@ -77,7 +77,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact Me 
 # contact_description: This will be displayed under the title.
-If you feel I can help you in any way then feel free to connect me on Gmail,Twitter,Github etc. 
+contact_description: If you feel I can help you in any way then feel free to connect me on Gmail,Twitter,Github etc. 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
