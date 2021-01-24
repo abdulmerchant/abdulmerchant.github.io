@@ -20,7 +20,9 @@
 - title: ST MARY'S HIGH SCHOOL
   subtitle: Student 
   date: 2010 - 2020
+  timeline-side: right
 
 - title: Wilson Collage.
   subtitle: Science Student
   date: 2021 - Present
+  timeline-side: left
